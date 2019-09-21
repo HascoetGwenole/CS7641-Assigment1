@@ -1,5 +1,7 @@
-The repository contains a jupyter notebook for both datasets I chose (They are named Football.ipynb 
-and Phising websites.ipynb). 
+This repository contains a jupyter notebook for both datasets I chose for this assigment (They are named Football.ipynb 
+and Phising websites.ipynb). The code I used has been adapt from  from two notebooks aviable online at: 
+https://github.com/kylewest520/CS-7641---Machine-Learning/tree/master/Assignment%201%20Supervised%20Learning 
+and https://github.com/niranjantdesai/cs-7641-machine-learning/tree/master/assgn1-supervised_learning
 
-To be run, these notebooks can be opened with Jupyter Notebook, and then each cell
+To be run, Football.ipynb and Phising websites.ipynb can be opened with Jupyter Notebook, and then each cell
 can be run individualy. I advise to run the cells in order to avoid any problem of undefined variables.
